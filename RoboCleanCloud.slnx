@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="RoboCleanCloud.Api/RoboCleanCloud.Api.csproj" />
+  <Project Path="RoboCleanCloud.Application/RoboCleanCloud.Application.csproj" />
+  <Project Path="RoboCleanCloud.Domain/RoboCleanCloud.Domain.csproj" />
+  <Project Path="RoboCleanCloud.Infrastructure/RoboCleanCloud.Infrastructure.csproj" />
+  <Project Path="RoboCleanCloud.IntegrationTests/RoboCleanCloud.IntegrationTests.csproj" />
+  <Project Path="RoboCleanCloud.UnitTests/RoboCleanCloud.UnitTests.csproj" />
+</Solution>

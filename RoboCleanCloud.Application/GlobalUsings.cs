@@ -1,0 +1,12 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using RoboCleanCloud.Application.DTOs;
+global using RoboCleanCloud.Application.Exceptions;
+global using RoboCleanCloud.Application.Interfaces.Repositories;
+global using RoboCleanCloud.Application.Interfaces.Services;
+global using RoboCleanCloud.Domain.Entities;
+global using RoboCleanCloud.Domain.Enums;
+global using RoboCleanCloud.Domain.Events;
+global using RoboCleanCloud.Domain.Exceptions;
