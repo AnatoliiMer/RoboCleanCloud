@@ -85,7 +85,7 @@ text
 
 # 1. Клонирование репозитория
 
-git clone https://github.com/yourusername/RoboCleanCloud.git
+git clone [https://github.com/yourusername/RoboCleanCloud.git](https://github.com/AnatoliiMer/RoboCleanCloud.git)
 cd RoboCleanCloud
 
 # 2. Запуск PostgreSQL и Redis через Docker
